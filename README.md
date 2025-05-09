@@ -43,7 +43,7 @@ This Power BI dashboard provides an end-to-end sales and profit analysis of smar
 
 ## 📷 Report Preview
 
-![Smart Watch Sales Dashboard](./Smart Watch Sales Report(2).pdf)
+![Smart Watch Sales Dashboard](Smart Watch Sales Report (2).pdf)
 
 ---
 
